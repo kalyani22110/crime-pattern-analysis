@@ -112,11 +112,20 @@ This project demonstrates how machine learning and data mining techniques can be
 
 ## 📸 Output Screenshots
 
-### 📊 Crime Trends
-![Crime Trends](images/trends.png)
+### 📊 Crimes Per Year
+![Crimes Per Year](images/crimes_per_year.png)
 
-### 📍 Hotspots
-![Hotspots](images/hotspots.png)
+### 📅 Crimes Per Month
+![Crimes Per Month](images/crimes_per_month.png)
+
+### 🚨 Top Crime Types
+![Top Crime Types](images/top_crime_types.png)
+
+### 📍 Crime Hotspots
+![Crime Hotspots](images/crime_hotspots.png)
+
+### 🔵 K-Means Clustering
+![KMeans Clusters](images/kmeans_clusters.png)
 
 ### 🖥️ Model Output
 ![Model Output](images/model_output.png)
