@@ -29,6 +29,7 @@ The system processes **40,000+ crime records** and provides insights such as cri
 crime_pattern/
 │── app/
 │ └── analysis.py
+│── images/
 │── requirements.txt
 │── README.md
 │── .gitignore
@@ -118,4 +119,4 @@ This project demonstrates how machine learning and data mining techniques can be
 ![Hotspots](images/hotspots.png)
 
 ### 🖥️ Model Output
-![Output](images/output.png)
+![Model Output](images/model_output.png)
